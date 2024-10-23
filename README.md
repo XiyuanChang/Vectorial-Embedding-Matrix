@@ -20,7 +20,7 @@ vectorsin enhancing data representation and relational understanding, thereby im
 
 
 # Citation
-
+```yaml
 @inproceedings{tissot2018hextrato,
   title={HEXTRATO: Using ontology-based constraints to improve accuracy on learning domain-specific entity and relationship embedding representation for knowledge resolution},
   author={Tissot, Hegler},
@@ -40,3 +40,6 @@ vectorsin enhancing data representation and relational understanding, thereby im
   year={2019},
   publisher={Springer}
 }
+```
+
+
