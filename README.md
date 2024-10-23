@@ -14,6 +14,7 @@ highlighting embeddings' superior capacity for information conveyance, confirmin
 vectorsin enhancing data representation and relational understanding, thereby improving classification task performance.
 
 ![image](https://github.com/user-attachments/assets/80fde99b-f9f8-4cd9-a6eb-a4f51c726129)
+![image](https://github.com/user-attachments/assets/f53f15b1-e057-4cf4-8830-1583440fa9c3)
 
 
 ![Bilstm attention model concept architecture](https://github.com/user-attachments/assets/8292fcfb-fdad-4f52-a711-667a5d6e20e8)
