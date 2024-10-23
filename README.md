@@ -13,3 +13,30 @@ BiLSTM-Attention model with variable-length knowledge embeddings;
 highlighting embeddings' superior capacity for information conveyance, confirming the effectiveness of embedding 
 vectorsin enhancing data representation and relational understanding, thereby improving classification task performance.
 
+![image](https://github.com/user-attachments/assets/80fde99b-f9f8-4cd9-a6eb-a4f51c726129)
+
+
+![Bilstm attention model concept architecture](https://github.com/user-attachments/assets/8292fcfb-fdad-4f52-a711-667a5d6e20e8)
+
+
+# Citation
+
+@inproceedings{tissot2018hextrato,
+  title={HEXTRATO: Using ontology-based constraints to improve accuracy on learning domain-specific entity and relationship embedding representation for knowledge resolution},
+  author={Tissot, Hegler},
+  booktitle={IC3K 2018-Proceedings of the 10th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management},
+  volume={10},
+  pages={72--81},
+  year={2018},
+  organization={SciTePress}
+}
+
+@article{li2019attention,
+  title={An attention-based deep learning model for clinical named entity recognition of Chinese electronic medical records},
+  author={Li, Luqi and Zhao, Jie and Hou, Li and Zhai, Yunkai and Shi, Jinming and Cui, Fangfang},
+  journal={BMC Medical Informatics and Decision Making},
+  volume={19},
+  pages={1--11},
+  year={2019},
+  publisher={Springer}
+}
