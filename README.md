@@ -1,5 +1,5 @@
 # Vectorial-Embedding-Matrix
-Objective: Explored the use of multi-relational triples to semantically encode feature-value relationships in categorical tabular data, enabling interpretable embeddings that enhance both classification accuracy and data explainability;
+Objective: Explored relational embedding techniques to preserve semantic context in sparse tabular data, enhancing both classification accuracy and data explainability without imputing missing values or altering observed data;
 ```yaml
 · Transformed structured tabular data into multi-relational triples to express each feature-value pair as a semantically interpretable relation, then applied knowledge graph embedding techniques to learn compact vector representations for downstream classification;
 
